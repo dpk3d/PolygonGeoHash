@@ -10,7 +10,6 @@ import java.util.HashMap;
  * <p/>
  * See http://en.wikipedia.org/wiki/Geohash for implementation details.
  * <p/>
- * created by malensek
  * edited by Deepak Singh 
  */
 public class GeoHash {
